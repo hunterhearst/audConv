@@ -1,4 +1,4 @@
-# pdf to audiobooks Converter
+# pdf to audiobook Converter
 
 # Introduction 
 The project is aimed at enhancing pdf to audiobook processing , 
